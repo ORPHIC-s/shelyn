@@ -1,0 +1,26 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global body style */
+body {
+  background: linear-gradient(270.81deg, #205257, #10292c);
+  width: 1250px;
+  height: 1250px;
+  border-radius: 100%;
+  position: absolute;
+  top: -100px;
+  right: -300px;
+  z-index: 1;
+
+
+}
+
+nav img {
+  justify-content: left;
+  width: auto;
+  height: 30px;
+}
